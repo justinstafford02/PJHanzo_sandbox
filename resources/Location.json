@@ -1,0 +1,50 @@
+[
+  {
+    "loc_name": "Town",
+    "loc_description": "Bustling square with much to do, there is a rock on the ground!",
+    "loc_items": ["Banana", "Rock"],
+    "loc_npc" : ["Bilbo", "Gandalf"],
+    "exits": {
+      "north": "There is an impassible rock wall",
+      "south": "Valley",
+      "east": "Castle",
+      "west": "Forest"
+    }
+  },
+  {
+    "loc_name": "Forest",
+    "loc_description": "Dark dank trees block out the sun, There is a Tree that calls to you.",
+    "loc_items": ["Tree", "Moss"],
+    "loc_npc" : ["Aria", "Lydia"],
+    "exits": {
+      "north": "There is nothing to the north, only the forest in front of you.",
+      "south": "There is nothing to the south, only the forest in front of you.",
+      "east": "Town",
+      "west": "The dense forest brush is too dense to walk through, we need tools."
+    }
+  },
+  {
+    "loc_name": "Valley",
+    "loc_description": "A wide and long valley is in front of you, so much to see. Theres some moss over there that seems interesting",
+    "loc_items": ["Potion", "Cheese"],
+    "loc_npc" : ["Sylvia", "Isabella"],
+    "exits": {
+      "north": "Town",
+      "south": "The wide valley goes on as long as the eye can see!",
+      "east": "There is nothing to the east, only the valley in front of you.",
+      "west": "There is nothing to the west, only the valley in front of you."
+    }
+  },
+  {
+    "loc_name": "Castle",
+    "loc_description": "A cool dank castle. Wait is that a banana?",
+    "loc_items": ["Sword"],
+    "loc_npc" : ["Thorin", "Captain Blackbeard"],
+    "exits": {
+      "north": "There is nothing to the west, only the valley in front of you.",
+      "south": "The wide valley goes on as long as the eye can see!",
+      "east": "There is nothing to the east, only the valley in front of you.",
+      "west": "Town"
+    }
+  }
+]

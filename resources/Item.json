@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Banana",
+    "description": "A yellow fruit that was populated with json"
+  },
+  {
+    "name": "Rock",
+    "description": "A shiny rock that was populated with json"
+  },
+  {
+    "name": "Tree",
+    "description": "The tree has a crazy symbol on it, it looks like there, with json."
+  },
+  {
+    "name": "Moss",
+    "description": "A lot of moss that could be hiding something. that was populated with json"
+  },
+  {
+    "name": "Potion",
+    "description": "Restores a small amount of health, with json."
+  },
+  {
+    "name": "Sword",
+    "description": "A sharp blade for combat, forged with json"
+  },
+  {
+    "name": "Cheese",
+    "description": "A tasty snack for health recovery, filled with json"
+  }
+]

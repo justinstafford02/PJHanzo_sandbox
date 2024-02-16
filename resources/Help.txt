@@ -1,0 +1,19 @@
+Quit: Use this command when you wish to exit the game.
+
+Go: This command allows you to move your character through the game world.
+You can specify a direction or a specific location.
+Common directions include north, south, east, west, up, and down. For example,
+typing go north will move your character to the north.
+If you know the name of a location, you can also use it, like go town.
+
+Look: For a detailed description of a specific object or feature,
+type look followed by the name of the object or feature.
+For example, look door will provide details about a door in your vicinity.
+
+Grab: This command allows you to pick up items within the game.
+When you find an object that you can interact with, you can use this command to add it to your inventory.
+For example, typing get key would allow you to pick up a key if it's available in your current location.
+
+Drop: Use this command to remove items from your inventory.
+If you have an item that you no longer need or wish to place somewhere, you can use this command.
+For example, typing drop lantern would leave the lantern at your current location for future use or for other players to find.

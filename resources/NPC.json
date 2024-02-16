@@ -1,0 +1,122 @@
+[
+  {
+    "npc_name": "Bilbo",
+    "npc_impression": "This gentlemen seem peaceful and willing to help figure out your origin.",
+    "dialog": "Hello, stranger! First time here?",
+    "gear": {
+      "head": "Ugly glasses",
+      "top": "Shirt with 3 holes",
+      "bottom": "Regular pants",
+      "lightSource": "Lantern"
+    }
+  },{
+  "npc_name": "Gandalf",
+  "npc_impression": "A wise and powerful wizard, known for his long beard and hat.",
+  "dialog": "Greetings, traveler! In need of some guidance on your journey?",
+  "gear": {
+    "head": "Pointed hat",
+    "top": "Long robe",
+    "bottom": "Mystical cloak",
+    "lightSource": "Staff"
+  }
+},
+  {
+    "npc_name": "Aria",
+    "npc_impression": "A mysterious elf with keen senses and graceful movements.",
+    "dialog": "Welcome to our realm, wanderer. What brings you here?",
+    "gear": {
+      "head": "Elven circlet",
+      "top": "Silken tunic",
+      "bottom": "Flowing skirt",
+      "lightSource": "Enchanted crystal"
+    }
+  },
+  {
+    "npc_name": "Thorin",
+    "npc_impression": "A dwarf of great stature and a fiery beard.",
+    "dialog": "Hail, friend! Seeking treasure or an adventure, perhaps?",
+    "gear": {
+      "head": "Dwarven helm",
+      "top": "Chainmail vest",
+      "bottom": "Sturdy leggings",
+      "lightSource": "Forge hammer"
+    }
+  },
+  {
+    "npc_name": "Lydia",
+    "npc_impression": "A skilled archer with a calm demeanor.",
+    "dialog": "Greetings, stranger. Need assistance with your bow or directions?",
+    "gear": {
+      "head": "Leather hood",
+      "top": "Hunting jacket",
+      "bottom": "Camouflaged pants",
+      "lightSource": "Quiver"
+    }
+  },
+  {
+    "npc_name": "Sylvia",
+    "npc_impression": "A nature-loving druid with a connection to the earth.",
+    "dialog": "Ah, another traveler. Feel the embrace of the forest around you.",
+    "gear": {
+      "head": "Leafy crown",
+      "top": "Bark-covered cloak",
+      "bottom": "Vine-adorned leggings",
+      "lightSource": "Glowing mushrooms"
+    }
+  },
+  {
+    "npc_name": "Captain Blackbeard",
+    "npc_impression": "A notorious pirate captain with a hook for a hand.",
+    "dialog": "Arr, ye look lost! What brings ye to these treacherous waters?",
+    "gear": {
+      "head": "Tricorn hat",
+      "top": "Tattered captain's coat",
+      "bottom": "Pirate trousers",
+      "lightSource": "Glowing treasure map"
+    }
+  },
+  {
+    "npc_name": "Isabella",
+    "npc_impression": "A charming bard with a captivating voice.",
+    "dialog": "Greetings, traveler. Care for a tale or a song to lighten your spirits?",
+    "gear": {
+      "head": "Feathered headband",
+      "top": "Colorful bardic attire",
+      "bottom": "Flowing skirt",
+      "lightSource": "Musical instrument"
+    }
+  },
+  {
+    "npc_name": "Ezra",
+    "npc_impression": "An eccentric inventor with goggles and a pocket full of gadgets.",
+    "dialog": "Hello there! Interested in the marvels of science and invention?",
+    "gear": {
+      "head": "Steampunk goggles",
+      "top": "Lab coat",
+      "bottom": "Utility pants",
+      "lightSource": "Tesla coil"
+    }
+  },
+  {
+    "npc_name": "Seraphina",
+    "npc_impression": "A celestial being with radiant wings and a serene aura.",
+    "dialog": "Greetings, mortal. What brings you to the presence of an ethereal being?",
+    "gear": {
+      "head": "Halo of light",
+      "top": "Glowing celestial gown",
+      "bottom": "Flowing ethereal skirt",
+      "lightSource": "Radiant aura"
+    }
+  },
+  {
+    "npc_name": "Cedric",
+    "npc_impression": "A skilled blacksmith known for crafting legendary weapons.",
+    "dialog": "Hail, adventurer! In need of a finely crafted blade or armor?",
+    "gear": {
+      "head": "Smithing goggles",
+      "top": "Forged chainmail",
+      "bottom": "Blacksmith apron",
+      "lightSource": "Molten forge hammer"
+    }
+  }
+]
